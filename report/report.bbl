@@ -1,0 +1,15 @@
+\begin{thebibliography}{1}
+
+\bibitem{transferlearning}
+{\sc Chilamkurthy, S.}
+\newblock Transfer learning for computer vision tutorial.
+\newblock
+  \url{https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html}.
+
+\bibitem{training}
+{\sc PyTorch}.
+\newblock Training a classifier.
+\newblock
+  \url{https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html}.
+
+\end{thebibliography}

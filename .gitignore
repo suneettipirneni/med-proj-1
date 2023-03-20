@@ -1,0 +1,6 @@
+__pycache__/
+data/
+runs/
+venv/
+model-1.1.pth
+model-1.2.pth
